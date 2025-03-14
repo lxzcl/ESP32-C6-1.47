@@ -1,7 +1,5 @@
 #include "config.h"
 
-//const char* ssid = "HZH_office";  // 定义 ssid
-//const char* password = "hzh@211229#";  // 定义 password
 const char* ssid = "xxx";  // 定义wifi ssid
 const char* password = "password";  // 定义wifi password
 const char* API = "https://www.xxx.com";//面板地址
