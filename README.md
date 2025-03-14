@@ -50,13 +50,13 @@ UI界面绘制 LVGL 全靠AI搓的
 2. 配置库https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
    <img src="png/8a511e46-1c97-4cea-801c-2af37c0273d4.png" width="500" />
-4.下载库，可能要科学，这个自己解决
+3.下载库，可能要科学，这个自己解决
 
 | ![Image 1](png/40c19f32-6d50-4226-adf3-3cec2ee31354.png) | ![Image 2](png/5c834b6b-b5ec-4aaa-8658-aee8863a4f2a.png) |
 | -------------------------------------------------------- | -------------------------------------------------------- |
 
 
-6. 下载或者Clone 代码，然后在Arduino左上角选择文件->打开，选择ino文件即可打开项目
+4. 下载或者Clone 代码，然后在Arduino左上角选择文件->打开，选择ino文件即可打开项目
 
 ## 修改代码配置
 代码很简单，只有一个文件，应该很容易看得懂
@@ -87,7 +87,7 @@ servicesAPI地址：https://www.xxx.com/api/v1/service
 2. 配置一下开发板信息
 
   <img src="png/cfecbeb3-8699-4cfe-a5ae-2934b1b344af.png" width="500" />
-4. 点击左上角的✓即可
+3. 点击左上角的✓即可
 
 还有问题参考官方文档，上面有链接
 
