@@ -45,7 +45,7 @@ UI界面绘制 LVGL 全靠AI搓的
 1. 下载Arduino
 2. 配置库https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
-   <img src="png/14dc623c-836c-485c-a3f4-afe80afc8088.png" width="500" />
+   <img src="png/8a511e46-1c97-4cea-801c-2af37c0273d4.png" width="500" />
 4.下载库，可能要科学，这个自己解决
 
 | ![Image 1](png/40c19f32-6d50-4226-adf3-3cec2ee31354.png) | ![Image 2](png/5c834b6b-b5ec-4aaa-8658-aee8863a4f2a.png) |
