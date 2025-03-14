@@ -89,6 +89,8 @@ servicesAPI地址：https://www.xxx.com/api/v1/service
   <img src="png/cfecbeb3-8699-4cfe-a5ae-2934b1b344af.png" width="500" />
 4. 点击左上角的✓即可
 
+还有问题参考官方文档，上面有链接
+
 # FAQ
 
 
