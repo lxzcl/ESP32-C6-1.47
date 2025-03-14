@@ -31,6 +31,8 @@ servicesAPI地址：https://www.xxx.com/api/v1/service
 
 serverAPI地址：https://www.xxx.com/api/v1/server
 
+替换成自己的面板地址即可，如果看不到登录下
+
 ## 说明
 UI界面绘制 LVGL 全靠AI搓的
 
